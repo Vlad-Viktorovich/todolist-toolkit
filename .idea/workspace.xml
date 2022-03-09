@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a55faae9-97a9-4019-bcab-6b7be5a1f1c2" name="Default Changelist" comment="refactoring code" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="1szLupzvYITnuP1aC0v2bLbvovX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/stories" />
+      <recent name="D:\it-incubator\Todolist\src" />
+      <recent name="D:\it-incubator\Todolist\src\state" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="D:\it-incubator\Todolist\src\EditableSpan.tsx" />
+      <recent name="D:\it-incubator\Todolist\src\AddItemForm.tsx" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.addItemForm.base example, visually looks correct">
+    <configuration name="addItemForm.base example, visually looks correct" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/integration" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/integration/addItemForm.test.js" />
+      <test-names>
+        <test-name value="addItemForm" />
+        <test-name value="base example, visually looks correct" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="jest:integration" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="jest:integration" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test:integration" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:integration" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.storybook" />
+        <item itemvalue="Jest.addItemForm.base example, visually looks correct" />
+        <item itemvalue="npm.jest:integration" />
+        <item itemvalue="npm.test:integration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a55faae9-97a9-4019-bcab-6b7be5a1f1c2" name="Default Changelist" comment="" />
+      <created>1621870696840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621870696840</updated>
+      <workItem from="1621870698751" duration="2004000" />
+      <workItem from="1632220464223" duration="11564000" />
+      <workItem from="1632240075011" duration="1337000" />
+      <workItem from="1632326526124" duration="84000" />
+      <workItem from="1632329796218" duration="1777000" />
+      <workItem from="1636813267403" duration="65276000" />
+      <workItem from="1637682391919" duration="8548000" />
+      <workItem from="1637760894263" duration="10092000" />
+      <workItem from="1637775293498" duration="199000" />
+      <workItem from="1637777006846" duration="247000" />
+      <workItem from="1638282338655" duration="1671000" />
+      <workItem from="1638284878698" duration="31000" />
+      <workItem from="1638289987080" duration="1783000" />
+      <workItem from="1638534376453" duration="672000" />
+      <workItem from="1639139057146" duration="11451000" />
+      <workItem from="1639157105943" duration="366000" />
+      <workItem from="1639242195089" duration="592000" />
+      <workItem from="1639400452256" duration="10232000" />
+      <workItem from="1639417175539" duration="604000" />
+      <workItem from="1639572908120" duration="47000" />
+      <workItem from="1639582029108" duration="4919000" />
+      <workItem from="1639589127097" duration="1738000" />
+      <workItem from="1639645605286" duration="9661000" />
+      <workItem from="1640010612208" duration="2712000" />
+      <workItem from="1640174367340" duration="12075000" />
+      <workItem from="1640260763864" duration="20000" />
+      <workItem from="1640623510787" duration="222000" />
+      <workItem from="1640624544682" duration="278000" />
+      <workItem from="1640779850772" duration="364000" />
+      <workItem from="1640781418417" duration="32000" />
+      <workItem from="1640781454262" duration="25000" />
+      <workItem from="1640781539511" duration="17084000" />
+      <workItem from="1641574876029" duration="135000" />
+      <workItem from="1641575017483" duration="4000" />
+      <workItem from="1641819130625" duration="1781000" />
+      <workItem from="1641821660910" duration="4892000" />
+      <workItem from="1641829674790" duration="11407000" />
+      <workItem from="1642087696210" duration="851000" />
+      <workItem from="1642100527273" duration="205000" />
+      <workItem from="1642156188088" duration="301000" />
+      <workItem from="1642156615356" duration="78000" />
+      <workItem from="1642348611524" duration="11000" />
+      <workItem from="1642348637029" duration="191000" />
+      <workItem from="1642412944683" duration="636000" />
+      <workItem from="1642413836789" duration="770000" />
+      <workItem from="1642610288834" duration="42000" />
+      <workItem from="1642611544687" duration="2119000" />
+      <workItem from="1642672550076" duration="17117000" />
+      <workItem from="1642935767243" duration="911000" />
+      <workItem from="1643036561891" duration="3151000" />
+      <workItem from="1643041565271" duration="9377000" />
+      <workItem from="1643202851090" duration="11595000" />
+      <workItem from="1643817595065" duration="11754000" />
+      <workItem from="1643968382990" duration="6412000" />
+      <workItem from="1643979643537" duration="1184000" />
+      <workItem from="1644846664072" duration="694000" />
+      <workItem from="1646834263939" duration="3027000" />
+    </task>
+    <task id="LOCAL-00001" summary="type TodoList">
+      <created>1636813530497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636813530497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add useState">
+      <created>1636919774366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636919774366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add onClick">
+      <created>1636995018118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636995018118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add checkbox">
+      <created>1637001406594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637001406595</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add objTasks">
+      <created>1637083749453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637083749453</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add objTasks(New)">
+      <created>1637150045858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637150045858</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add tsarFoo(changeFilter)">
+      <created>1637257576627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637257576627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add doubleClick">
+      <created>1637333555968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637333555968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add Material-UI">
+      <created>1637772225285</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637772225285</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add todolist-reducer">
+      <created>1639156812264</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639156812272</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add tasks-reducer">
+      <created>1639417432660</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639417432660</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add AppWithReducer">
+      <created>1639590833331</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639590833331</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add AppWithReducer refactoring">
+      <created>1639654548131</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639654548131</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add AppWithRedux">
+      <created>1639661691012</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639661691012</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add Task">
+      <created>1640188459831</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640188459831</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add git test">
+      <created>1640624619757</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640624619757</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add storybook">
+      <created>1640882042327</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1640882042327</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add storybook refactoring">
+      <created>1640882704393</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1640882704393</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add refactoring code">
+      <created>1641574986237</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1641574986237</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add refactoring code">
+      <created>1641823054665</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1641823054665</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add api, axios, rest api">
+      <created>1641840316032</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1641840316032</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add api, axios, rest api(type)">
+      <created>1642001432616</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642001432616</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add refactoring code">
+      <created>1642348812058</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1642348812058</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add thunk">
+      <created>1642414587467</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1642414587470</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add refactoring code">
+      <created>1642611663943</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1642611663943</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add loadings">
+      <created>1642684240680</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1642684240680</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add  Errors">
+      <created>1642690568695</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690568695</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add  Errors tasks">
+      <created>1642776461704</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1642776461704</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add  BrowserRouter">
+      <created>1643043321764</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1643043321765</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add  Formik">
+      <created>1643118309620</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1643118309620</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add  Authorization flow">
+      <created>1643300546578</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1643300546578</updated>
+    </task>
+    <task id="LOCAL-00032" summary="refactoring code">
+      <created>1646841109882</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1646841109882</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add objTasks" />
+    <MESSAGE value="add objTasks(New)" />
+    <MESSAGE value="add tsarFoo(changeFilter)" />
+    <MESSAGE value="add doubleClick" />
+    <MESSAGE value="add Material-UI" />
+    <MESSAGE value="add todolist-reducer" />
+    <MESSAGE value="add tasks-reducer" />
+    <MESSAGE value="add AppWithReducer" />
+    <MESSAGE value="add AppWithReducer refactoring" />
+    <MESSAGE value="add AppWithRedux" />
+    <MESSAGE value="add Task" />
+    <MESSAGE value="add git test" />
+    <MESSAGE value="add storybook" />
+    <MESSAGE value="add storybook refactoring" />
+    <MESSAGE value="add api, axios, rest api" />
+    <MESSAGE value="add api, axios, rest api(type)" />
+    <MESSAGE value="add thunk" />
+    <MESSAGE value="add refactoring code" />
+    <MESSAGE value="add loadings" />
+    <MESSAGE value="add  Errors" />
+    <MESSAGE value="add  Errors tasks" />
+    <MESSAGE value="add  BrowserRouter" />
+    <MESSAGE value="add  Formik" />
+    <MESSAGE value="add  Authorization flow" />
+    <MESSAGE value="refactoring code" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring code" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

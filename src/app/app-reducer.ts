@@ -54,7 +54,3 @@ export type InitialStateType = {
 export const {setAppErrorAC, setAppStatusAC, setAppIsInitializedAC} = slice.actions
 
 
-export type SetAppErrorActionType = ReturnType<typeof setAppErrorAC>
-export type SetAppStatusActionType = ReturnType<typeof setAppStatusAC>
-export type SetAppIsInitializedType = ReturnType<typeof setAppIsInitializedAC>
-

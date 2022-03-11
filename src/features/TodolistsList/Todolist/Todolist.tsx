@@ -8,7 +8,7 @@ import {Task} from './Task/Task'
 import {TaskStatuses, TaskType} from '../../../api/todolists-api'
 import {FilterValuesType, TodolistDomainType} from '../todolists-reducer'
 import {useDispatch, useSelector} from 'react-redux'
-import {fetchTasksTC} from '../tasks-reducer'
+import {fetchTasks} from '../tasks-reducer'
 import {AppRootStateType} from '../../../app/store';
 import {Navigate} from 'react-router-dom';
 
@@ -34,7 +34,7 @@ export const Todolist = React.memo(function ({demo = false, ...props}: PropsType
         if (!isLoggedIn) {
             return;
         }
-        const thunk = fetchTasksTC(props.todolist.id)
+        const thunk = fetchTasks({todolistId : props.todolist.id})
         dispatch(thunk)
     }, [])
 

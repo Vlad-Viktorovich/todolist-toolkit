@@ -44,7 +44,11 @@ const slice = createSlice({
             action.payload.todolists.forEach((tl: any) => {
                 state[tl.id] = []
             })
-
+        });
+        builder.addCase(fetchTasks.fulfilled, (state, action) => {
+            action.payload.todolists.forEach((tl: any) => {
+                state[tl.id] = []
+            })
         })
     }
 })
@@ -127,6 +131,7 @@ export const updateTaskTC = (taskId: string, model: UpdateDomainTaskModelType, t
                 handleServerNetworkError(error, dispatch);
             })
     }
+
 
 // types
 export type UpdateDomainTaskModelType = {

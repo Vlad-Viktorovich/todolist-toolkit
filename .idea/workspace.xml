@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a55faae9-97a9-4019-bcab-6b7be5a1f1c2" name="Default Changelist" comment="refactoring code">
+    <list default="true" id="a55faae9-97a9-4019-bcab-6b7be5a1f1c2" name="Default Changelist" comment="refactoring fetchTasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/TodolistsList/Todolist/Todolist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/TodolistsList/Todolist/Todolist.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features/TodolistsList/tasks-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/TodolistsList/tasks-reducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +206,8 @@
       <workItem from="1646843423715" duration="2262000" />
       <workItem from="1646909481550" duration="5959000" />
       <workItem from="1646930683562" duration="908000" />
-      <workItem from="1647008033089" duration="3130000" />
+      <workItem from="1647008033089" duration="3730000" />
+      <workItem from="1647170508683" duration="2606000" />
     </task>
     <task id="LOCAL-00001" summary="type TodoList">
       <created>1636813530497</created>
@@ -454,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646935230177</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="refactoring fetchTasks">
+      <created>1647018923344</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1647018923344</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +482,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Без названия" />
     </ignored-roots>
-    <MESSAGE value="add objTasks" />
     <MESSAGE value="add objTasks(New)" />
     <MESSAGE value="add tsarFoo(changeFilter)" />
     <MESSAGE value="add doubleClick" />
@@ -500,7 +506,8 @@
     <MESSAGE value="add  Formik" />
     <MESSAGE value="add  Authorization flow" />
     <MESSAGE value="refactoring code" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring code" />
+    <MESSAGE value="refactoring fetchTasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring fetchTasks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

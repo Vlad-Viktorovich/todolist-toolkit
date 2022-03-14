@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a55faae9-97a9-4019-bcab-6b7be5a1f1c2" name="Default Changelist" comment="refactoring fetchTasks">
+    <list default="true" id="a55faae9-97a9-4019-bcab-6b7be5a1f1c2" name="Default Changelist" comment="add extraReducer fetchTasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/TodolistsList/tasks-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/TodolistsList/tasks-reducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +206,7 @@
       <workItem from="1646909481550" duration="5959000" />
       <workItem from="1646930683562" duration="908000" />
       <workItem from="1647008033089" duration="3730000" />
-      <workItem from="1647170508683" duration="2606000" />
+      <workItem from="1647170508683" duration="3425000" />
     </task>
     <task id="LOCAL-00001" summary="type TodoList">
       <created>1636813530497</created>
@@ -461,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647018923344</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="add extraReducer fetchTasks">
+      <created>1647192093202</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1647192093202</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +488,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Без названия" />
     </ignored-roots>
-    <MESSAGE value="add objTasks(New)" />
     <MESSAGE value="add tsarFoo(changeFilter)" />
     <MESSAGE value="add doubleClick" />
     <MESSAGE value="add Material-UI" />
@@ -507,7 +512,8 @@
     <MESSAGE value="add  Authorization flow" />
     <MESSAGE value="refactoring code" />
     <MESSAGE value="refactoring fetchTasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring fetchTasks" />
+    <MESSAGE value="add extraReducer fetchTasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="add extraReducer fetchTasks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
